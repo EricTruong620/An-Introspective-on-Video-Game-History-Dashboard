@@ -11,3 +11,5 @@ The dashboard uses data from Kaggle: https://www.kaggle.com/datasets/gregorut/vi
 To use the dashboard, simply click on the link below and explore the different features or open the file in tableau and press the tabs to view the dashboard and individual sheets.
 
 https://public.tableau.com/views/AnIntrospectiveontheVideoGameIndustryDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+This project was created by Eric Truong for my application for The Data School December Cohort.
