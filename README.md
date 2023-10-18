@@ -12,4 +12,4 @@ To use the dashboard, simply click on the link below and explore the different f
 
 https://public.tableau.com/views/AnIntrospectiveontheVideoGameIndustryDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-This project was created by Eric Truong for my application for The Data School December Cohort.
+This project was created by Eric Truong for my application for The Data School December 2023 Cohort.
